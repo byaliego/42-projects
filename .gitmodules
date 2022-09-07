@@ -16,3 +16,6 @@
 [submodule "push_swap"]
 	path = push_swap
 	url = https://github.com/byaliego/push_swap.git
+[submodule "mini_talk"]
+	path = mini_talk
+	url = https://github.com/byaliego/mini_talk.git
